@@ -27,7 +27,7 @@ The investigation spans **three structured weeks**, moving from initial data pro
 | [`data_dictionary.md`](https://github.com/sisonkemafuta594/imbewu-investigation/blob/main/data_dictionary.md) | Complete data dictionary — all 6 tables, column definitions, row counts, quality issues, and key analysis decisions |
 ![Imbewu Retail ERD](ERD_diagram.png)
 - [Data Dictionary](data_dictionary.md)
-- [View SQL Queries](SQL_queries.html)
+- [View SQL Queries](SQLqueries.html)
 ---
 
 ## 🗄️ Dataset at a Glance
