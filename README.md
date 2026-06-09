@@ -35,7 +35,6 @@ The investigation spans **three structured weeks**, moving from initial data pro
 - [Week 3 Store Level Deep Dive](Week3_StoreLevel_DeepDive.pdf)
 - [Investigation Notes](Investigation_Notes.pdf)
 - [Interactive Dashboard](imbewu_final_board_dashboard.html)
-- [View Interactive Dashboard](https://sisonkemafuta594.github.io/The-Imbewu-Retail-Investigation/imbewu_final_board_dashboard.html)
 ---
 
 ## 🗄️ Dataset at a Glance
