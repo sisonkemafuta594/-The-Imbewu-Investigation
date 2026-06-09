@@ -28,6 +28,7 @@ The investigation spans **three structured weeks**, moving from initial data pro
 ![Imbewu Retail ERD](ERD_diagram.png)
 - [Data Dictionary](data_dictionary.md)
 - [View SQL Queries](SQL_queries.html)
+- [Interactive Dashboard](imbewu_final_board_dashboard.html)
 ---
 
 ## 🗄️ Dataset at a Glance
@@ -145,7 +146,7 @@ products ───────────────────────�
 promotions — linked to transaction_items via category + date overlap
 ```
 
-See [`ERD_Diagram.png`](https://github.com/sisonkemafuta594/imbewu-investigation/blob/main/ERD_Diagram.png) for the full visual schema.
+![Imbewu Retail ERD](ERD_diagram.png)
 
 ---
 
