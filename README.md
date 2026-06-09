@@ -20,6 +20,7 @@ The investigation spans **three structured weeks**, moving from initial data pro
 | File | Description |
 |---|---|
 | [`Week1_Investigation_Plan.docx`](https://github.com/sisonkemafuta594/imbewu-investigation/blob/main/Week1_Investigation_Plan.docx) | Stakeholder brief, data overview, quality audit, 4 testable hypotheses, and Week 2 investigation plan |
+- [Week 1 Investigation Plan](Week1_Investigation_Plan.docx)
 | [`Week3_StoreLevel_DeepDive.docx`](https://github.com/sisonkemafuta594/imbewu-investigation/blob/main/Week3_StoreLevel_DeepDive.docx) | Individual store performance across all 12 WC stores; deep-dive into top declining stores with category and monthly breakdowns |
 | [`SQL_queries.html`](https://github.com/sisonkemafuta594/imbewu-investigation/blob/main/SQL_queries.html) | Full Databricks SQL notebook — all queries used in the investigation with inline findings and commentary |
 | [`imbewu_final_board_dashboard.html`](https://github.com/sisonkemafuta594/imbewu-investigation/blob/main/imbewu_final_board_dashboard__2_.html) | Interactive executive dashboard summarising findings for the board readout |
