@@ -73,7 +73,7 @@ Confirmed the problem is real and WC-specific through initial profiling:
 | KwaZulu-Natal | R218,302 | R249,409 | +14.3% |
 | Eastern Cape | R88,529 | R97,117 | +9.7% |
 
-Western Cape is the **only declining province**. Transaction count dropped just 2.3% (confirming flat foot traffic), but average basket size fell from R387.62 to R372.70 — a **−3.9% spend-per-visit decline** that no other province experienced.
+Western Cape is the **only declining province**. Transaction count dropped just 2.3% (confirming flat foot traffic), but average basket size fell from R387.62 to R372.70 a **−3.9% spend-per-visit decline** that no other province experienced.
 
 **Four hypotheses were formed and prioritised:**
 
@@ -88,21 +88,21 @@ Western Cape is the **only declining province**. Transaction count dropped just 
 
 ### Week 2 — Hypothesis Testing
 
-**Hypothesis A — Mega Store Drag:**
-WC Mega stores declined **−11.6%** in H1. Express stores in WC grew +14.7% and Market stores grew +2.8%. The entire WC net decline is driven by the Mega format. Nationally, Mega stores also declined −12.7%, but WC has 3 of the 6 national Mega stores — making the impact disproportionate.
+**Hypothesis A- Mega Store Drag:**
+WC Mega stores declined **−11.6%** in H1. Express stores in WC grew +14.7% and Market stores grew +2.8%. The entire WC net decline is driven by the Mega format. Nationally, Mega stores also declined −12.7%, but WC has 3 of the 6 national Mega stores making the impact disproportionate.
 
-**Hypothesis B — Product Mix Shift:**
-Groceries (−9.1%) and Household (−10.9%) declined across all WC formats. Nationally, these same categories grew +2.8% and +0.1% respectively. WC customers are spending less on high-volume staple categories — consistent with a local competitive threat drawing grocery shoppers elsewhere.
+**Hypothesis B- Product Mix Shift:**
+Groceries (−9.1%) and Household (−10.9%) declined across all WC formats. Nationally, these same categories grew +2.8% and +0.1% respectively. WC customers are spending less on high-volume staple categories consistent with a local competitive threat drawing grocery shoppers elsewhere.
 
-**Hypothesis C — Silver-Tier Erosion:**
-Silver-tier revenue in WC fell **−10.7%** (vs Gold at 0.0% and Bronze at −5.6%). Silver visits dropped −9.0% — meaning customers are visiting less often, not just spending less per visit. Silver basket size dropped −1.9% while nationally Silver baskets grew +5.6%. This signals that mid-tier customers may be defecting to a competitor.
+**Hypothesis C- Silver-Tier Erosion:**
+Silver-tier revenue in WC fell **−10.7%** (vs Gold at 0.0% and Bronze at −5.6%). Silver visits dropped −9.0% meaning customers are visiting less often, not just spending less per visit. Silver basket size dropped −1.9% while nationally Silver baskets grew +5.6%. This signals that mid-tier customers may be defecting to a competitor.
 
-**Promotion Analysis (Pap Power Promo — PR001):**
+**Promotion Analysis (Pap Power Promo PR001):**
 The Buy 2 Get 1 Free promotion on Maize Meal in April 2025 drove a **+50.5% volume uplift** but only a **+2.2% revenue gain** due to the deep 33.3% discount. A May 2025 demand dip suggests stockpiling occurred during the promo period. Recommendation: evaluate gross margin impact before repeating; consider a 20% discount to protect revenue while still driving volume.
 
 ---
 
-### Week 3 — Store-Level Deep Dive
+### Week 3 Store-Level Deep Dive
 
 Following a challenge from the Western Cape Regional Manager, all 12 WC stores were analysed individually:
 
@@ -117,14 +117,14 @@ Following a challenge from the Western Cape Regional Manager, all 12 WC stores w
 | Imbewu Express Sea Point | Express | R6,848 | R9,020 | **+31.7%** |
 | Imbewu Market Khayelitsha | Market | R22,903 | R29,682 | **+29.6%** |
 
-**Key finding:** The WC decline is not province-wide. It is **concentrated in 3 Mega stores** (Bellville, Paarl Central, Tygervalley) which together account for R31,209 of gross revenue loss — **132.6% of the total net WC gap**. Four stores are actively growing.
+**Key finding:** The WC decline is not province-wide. It is **concentrated in 3 Mega stores** (Bellville, Paarl Central, Tygervalley) which together account for R31,209 of gross revenue loss **132.6% of the total net WC gap**. Four stores are actively growing.
 
 **Imbewu Mega Bellville** (worst performer, −25.4%):
 - Groceries alone declined 31.6%, accounting for 65.8% of the store's total revenue loss
 - Electronics declined −33.6% simultaneously
 - February 2025 was the inflection point (basket size dropped 31.3% vs Feb 2024)
 - Pattern strongly suggests a large-format competitor opened in the Bellville catchment area in late 2024 / early 2025
-- June 2025 showed a small positive reversal — early signal worth monitoring
+- June 2025 showed a small positive reversal early signal worth monitoring
 
 ---
 
@@ -160,7 +160,7 @@ promotions — linked to transaction_items via category + date overlap
 1. **Aggregate metrics mask store-level truth.** "WC is down 6%" is a much weaker finding than "3 specific Mega stores are down 7–25%, while 4 stores are growing strongly."
 2. **Foot traffic ≠ revenue.** A flat transaction count with a falling basket size points to competitive pressure on spend, not customer acquisition failure.
 3. **Deep promotions can move volume without moving revenue.** The Pap Power Promo is a textbook example: +50% units, +2% revenue. Discount depth matters.
-4. **Loyalty tiers behave differently under competitive pressure.** Gold customers remained loyal and growing. Silver customers showed clear visit-frequency decline — a leading indicator of churn.
+4. **Loyalty tiers behave differently under competitive pressure.** Gold customers remained loyal and growing. Silver customers showed clear visit-frequency decline a leading indicator of churn.
 
 ---
 
