@@ -33,6 +33,7 @@ The investigation spans **three structured weeks**, moving from initial data pro
 - [Data Dictionary](data_dictionary.md)
 - [View SQL Queries](SQL_queries.html)
 - [Week 3 Store Level Deep Dive](Week3_StoreLevel_DeepDive.pdf)
+- [Investigation Notes](Investigation_Notes.pdf)
 - [Interactive Dashboard](imbewu_final_board_dashboard.html)
 ---
 
