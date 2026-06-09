@@ -32,7 +32,6 @@ The investigation spans **three structured weeks**, moving from initial data pro
 - [Week 1 Investigation Plan](Week1_Investigation_Plan.pdf)
 - [Data Dictionary](data_dictionary.md)
 - [View SQL Queries](SQL_queries.html)
-- [Week 3 Store Level Deep Dive](Week3_StoreLevel_DeepDive.pdf)
 - [Investigation Notes](Investigation_Notes.pdf)
 - [Interactive Dashboard](imbewu_board_dashboard.html)
   
@@ -125,6 +124,8 @@ Following a challenge from the Western Cape Regional Manager, all 12 WC stores w
 - February 2025 was the inflection point (basket size dropped 31.3% vs Feb 2024)
 - Pattern strongly suggests a large-format competitor opened in the Bellville catchment area in late 2024 / early 2025
 - June 2025 showed a small positive reversal early signal worth monitoring
+
+- [Week 3 Store Level Deep Dive](Week3_StoreLevel_DeepDive.pdf)
 
 ---
 
