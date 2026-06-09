@@ -21,7 +21,7 @@ The investigation spans **three structured weeks**, moving from initial data pro
 |---|---|
 | [`Week1_Investigation_Plan.docx`](https://github.com/sisonkemafuta594/imbewu-investigation/blob/main/Week1_Investigation_Plan.docx) | Stakeholder brief, data overview, quality audit, 4 testable hypotheses, and Week 2 investigation plan |
 | [`Week3_StoreLevel_DeepDive.docx`](https://github.com/sisonkemafuta594/imbewu-investigation/blob/main/Week3_StoreLevel_DeepDive.docx) | Individual store performance across all 12 WC stores; deep-dive into top declining stores with category and monthly breakdowns |
-| [`SQL_queries.html`](https://github.com/sisonkemafuta594/imbewu-investigation/blob/main/SQL_queries.html) | Full Databricks SQL notebook — all queries used in the investigation with inline findings and commentary |
+| [`SQL_queries.html`](https://github.com/sisonkemafuta594/imbewu-investigation/blob/main/SQL_queries.html) | Full Databricks SQL notebook all queries used in the investigation with inline findings and commentary |
 | [`imbewu_final_board_dashboard.html`](https://github.com/sisonkemafuta594/imbewu-investigation/blob/main/imbewu_final_board_dashboard__2_.html) | Interactive executive dashboard summarising findings for the board readout |
 | ! [`ERD_Diagram.png`](https://github.com/sisonkemafuta594/imbewu-investigation/blob/main/ERD_Diagram.png) | Entity Relationship Diagram showing the full database schema | 
 | [`data_dictionary.md`](https://github.com/sisonkemafuta594/imbewu-investigation/blob/main/data_dictionary.md) | Complete data dictionary — all 6 tables, column definitions, row counts, quality issues, and key analysis decisions |
@@ -120,7 +120,7 @@ Following a challenge from the Western Cape Regional Manager, all 12 WC stores w
 **Key finding:** The WC decline is not province-wide. It is **concentrated in 3 Mega stores** (Bellville, Paarl Central, Tygervalley) which together account for R31,209 of gross revenue loss — **132.6% of the total net WC gap**. Four stores are actively growing.
 
 **Imbewu Mega Bellville** (worst performer, −25.4%):
-- Groceries alone declined −31.6%, accounting for 65.8% of the store's total revenue loss
+- Groceries alone declined 31.6%, accounting for 65.8% of the store's total revenue loss
 - Electronics declined −33.6% simultaneously
 - February 2025 was the inflection point (basket size dropped 31.3% vs Feb 2024)
 - Pattern strongly suggests a large-format competitor opened in the Bellville catchment area in late 2024 / early 2025
@@ -130,9 +130,9 @@ Following a challenge from the Western Cape Regional Manager, all 12 WC stores w
 
 ## 🛠️ Tools & Technologies
 
-- **SQL (Databricks)** — all data profiling, hypothesis testing, and store-level analysis
-- **Power BI** — executive board dashboard
-- **Microsoft Word** — structured weekly investigation reports
+- **SQL (Databricks)** all data profiling, hypothesis testing, and store-level analysis
+- **Power BI** executive board dashboard
+- **Microsoft Word** structured weekly investigation reports
 
 ---
 
