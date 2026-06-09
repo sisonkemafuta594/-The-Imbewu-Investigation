@@ -26,7 +26,8 @@ The investigation spans **three structured weeks**, moving from initial data pro
 | ! [`ERD_Diagram.png`](https://github.com/sisonkemafuta594/imbewu-investigation/blob/main/ERD_Diagram.png) | Entity Relationship Diagram showing the full database schema | | Entity Relationship Diagram showing the full database schema |
 | [`data_dictionary.md`](https://github.com/sisonkemafuta594/imbewu-investigation/blob/main/data_dictionary.md) | Complete data dictionary — all 6 tables, column definitions, row counts, quality issues, and key analysis decisions |
 ![Imbewu Retail ERD](ERD_diagram.png)
-
+- [Data Dictionary](data_dictionary.md)
+- [View SQL Queries](SQL_queries.html)
 ---
 
 ## 🗄️ Dataset at a Glance
