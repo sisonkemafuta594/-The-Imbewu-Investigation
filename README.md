@@ -23,8 +23,9 @@ The investigation spans **three structured weeks**, moving from initial data pro
 | [`Week3_StoreLevel_DeepDive.docx`](https://github.com/sisonkemafuta594/imbewu-investigation/blob/main/Week3_StoreLevel_DeepDive.docx) | Individual store performance across all 12 WC stores; deep-dive into top declining stores with category and monthly breakdowns |
 | [`SQL_queries.html`](https://github.com/sisonkemafuta594/imbewu-investigation/blob/main/SQL_queries.html) | Full Databricks SQL notebook — all queries used in the investigation with inline findings and commentary |
 | [`imbewu_final_board_dashboard.html`](https://github.com/sisonkemafuta594/imbewu-investigation/blob/main/imbewu_final_board_dashboard__2_.html) | Interactive executive dashboard summarising findings for the board readout |
-| [`ERD_Diagram.png`](https://github.com/sisonkemafuta594/imbewu-investigation/blob/main/ERD_Diagram.png) | Entity Relationship Diagram showing the full database schema |
+| ! [`ERD_Diagram.png`](https://github.com/sisonkemafuta594/imbewu-investigation/blob/main/ERD_Diagram.png) | Entity Relationship Diagram showing the full database schema | | Entity Relationship Diagram showing the full database schema |
 | [`data_dictionary.md`](https://github.com/sisonkemafuta594/imbewu-investigation/blob/main/data_dictionary.md) | Complete data dictionary — all 6 tables, column definitions, row counts, quality issues, and key analysis decisions |
+![Imbewu Retail ERD](ERD_diagram.png)
 
 ---
 
